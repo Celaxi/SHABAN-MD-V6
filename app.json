@@ -8,13 +8,13 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "SHABAN-MD~kEIT1KjD#ykaLgfFMy1HVcDxBUzDCP5fYvZR0MUumldC9VE522QI",
       "required": true,
-      "value": ""
+      "value": "SHABAN-MD~kEIT1KjD#ykaLgfFMy1HVcDxBUzDCP5fYvZR0MUumldC9VE522QI"
     },  
     
     "STICKER_NAME": {
-      "description": "type your sticker pack name.",
+      "description": "•|CHRIS|SON OF SHELLTEAR•",
       "required": false,
       "value": "SHABAN-MD︎"
     },
@@ -22,12 +22,12 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "MR-SHABAN"
+      "value": "|•CHRIS©®"
 }, 
     "OWNER_NUMBER": {
-      "description": "put the owner number for bot.",
+      "description": "233598710283",
       "required": false,
-      "value": "923043788282"
+      "value": "233598710283"
 
     }, 
     
